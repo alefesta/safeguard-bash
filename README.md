@@ -10,7 +10,7 @@ This code has been compiled into a Docker image hosted on [DockerHub](https://hu
 If you have Docker installed, you can simply run:
 
 ```Bash
-$ docker run -it oneidentity/safeguard-ps
+$ docker run -it oneidentity/safeguard-bash
 ```
 
 It is an extremely light-weight image, and it automatically calls the
